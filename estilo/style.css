@@ -52,7 +52,8 @@ div#botoes{
     display: inline-block;
     top: 35%;
     right: 20vw;
-    transform: translate(-50,-50);
+    /*border: 1px solid;*/
+    padding: 8px;
 }
 #sim{
     font-size: 0.8em;
