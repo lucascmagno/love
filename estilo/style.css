@@ -43,7 +43,7 @@ div#botoes{
     display: block;
     display: inline-block;
     top: 35%;
-    left: 27%;
+    left: 20vw;
     transform: translate(-50,-50);
 }
 #btn_nao{
@@ -51,7 +51,7 @@ div#botoes{
     display: block;
     display: inline-block;
     top: 35%;
-    right: 27%;
+    right: 20vw;
     transform: translate(-50,-50);
 }
 #sim{
